@@ -1,1 +1,7 @@
 print("hello")
+hallo
+print("Uzumaki Itachi")
+Uzumaki Itachi
+Hai
+hai
+hai
